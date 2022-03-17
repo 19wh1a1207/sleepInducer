@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/sleepInducer/static/css/main.8a8b14fa.css",
-    "main.js": "/sleepInducer/static/js/main.1493b7c5.js",
+    "main.js": "/sleepInducer/static/js/main.c57a121d.js",
     "static/js/787.e54e9232.chunk.js": "/sleepInducer/static/js/787.e54e9232.chunk.js",
     "static/media/bedtimestories.jpg": "/sleepInducer/static/media/bedtimestories.cc36319f2e81fb4f0dfb.jpg",
     "static/media/sleepSound.jpg": "/sleepInducer/static/media/sleepSound.4902af14c61fcb17215d.jpg",
     "index.html": "/sleepInducer/index.html",
     "main.8a8b14fa.css.map": "/sleepInducer/static/css/main.8a8b14fa.css.map",
-    "main.1493b7c5.js.map": "/sleepInducer/static/js/main.1493b7c5.js.map",
+    "main.c57a121d.js.map": "/sleepInducer/static/js/main.c57a121d.js.map",
     "787.e54e9232.chunk.js.map": "/sleepInducer/static/js/787.e54e9232.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8a8b14fa.css",
-    "static/js/main.1493b7c5.js"
+    "static/js/main.c57a121d.js"
   ]
 }
